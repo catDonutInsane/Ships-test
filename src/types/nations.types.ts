@@ -1,0 +1,1 @@
+export type nations ="All"|"Japan"|"U.S.A."|"U.S.S.R."|"Germany"|"U.K."|"France"|"Pan-Asia"|"Italy"|"Commonwealth"|"Pan-America"|"Europe"|"The Netherlands"|"Spain"

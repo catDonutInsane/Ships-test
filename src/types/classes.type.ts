@@ -1,0 +1,1 @@
+export type classes = 'All'|'Submarine'| 'Destroyer'| 'Cruiser'| 'Battleship'| 'Aircraft Carrier'

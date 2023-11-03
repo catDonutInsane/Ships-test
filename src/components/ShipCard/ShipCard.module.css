@@ -1,0 +1,9 @@
+.wrapper{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+}
+.description{
+    width: 80%;
+    align-items: center;
+}
